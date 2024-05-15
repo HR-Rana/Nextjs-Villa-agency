@@ -1,9 +1,11 @@
+"use-client"
+
 import React from 'react'
 
-export default function page() {
+export default function ButttonTag() {
   return (
     <div>
-      Properties page
+      
     </div>
   )
 }
